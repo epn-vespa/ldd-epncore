@@ -1,9 +1,9 @@
-# <My_NS_Name (prefix)> <Discipline|Local> Namespace
+# VESPA-EPNcore Local Data Dictionary (LDD)
 <!-- UPDATE NEEDED - short summary of what this namespace is. approx 100-256 characters. update steward information -->
 
-The <My_NS_Name (prefix)> <Discipline/Local> Namespace does x, y, z.
+The VESPA-EPNcore LDD provides classes and attributes for implementing EPNcore keywords in PDS4 labels.
 
-Steward: [add-steward-name-here, add-node-id-here Node](mailto:steward@example.com)
+Steward: [VESPA team](mailto:support.epntap@obspm.fr)
 
 
 # Documentation
