@@ -1,10 +1,8 @@
-# VESPA-EPNcore Local Data Dictionary (LDD)
-<!-- UPDATE NEEDED - short summary of what this namespace is. approx 100-256 characters. update steward information -->
+# EPNcore Local Data Dictionary (LDD)
 
-The VESPA-EPNcore LDD provides classes and attributes for implementing EPNcore keywords in PDS4 labels.
+The EPNcore LDD provides classes and attributes for implementing EPNcore keywords in PDS4 labels. 
 
 Steward: [VESPA team](mailto:support.epntap@obspm.fr)
-
 
 # Documentation
 
